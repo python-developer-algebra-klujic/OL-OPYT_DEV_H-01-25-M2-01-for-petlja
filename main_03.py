@@ -8,6 +8,7 @@ for i in range(10): # 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 !!! NE I 10 !!!
     first_name = input(f'Upisite ime {i + 1}. clana: ')
     last_name = input(f'Upisite prezime {i + 1}. clana: ')
     year_of_birth = int(input(f'Upisite godinu rodenja {i + 1}. clana: '))
+    # Nakon ove linije ubaciti unesene vrijednosti u neku kolekciju najcesce listu
 
 
 print('Kraj programa')
